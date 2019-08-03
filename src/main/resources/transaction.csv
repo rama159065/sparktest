@@ -1,0 +1,5 @@
+transaction_id,deal_id,product_id,transaction_date
+1,deal1,product1,2018-12-09,
+2,deal2,product2,2018-12-17,
+3,deal1,product4,2018-12-22,
+4,deal1,product2,2018-12-08

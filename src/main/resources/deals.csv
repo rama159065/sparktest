@@ -1,0 +1,6 @@
+deal_id,discount_amount,product_id,active_flag
+deal1,1.0,product1,Y,
+deal2,1.2,product2,Y,
+deal1,1.5,product3,N,
+deal1,1.2,product4,Y,
+deal1,1.2,product2,Y

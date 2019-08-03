@@ -1,0 +1,1 @@
+{ "campaign_id": "campaign1", "campaign_name": "TestCampaign", "start_date": "2018-12-07T14:01:10.000+05:30", "end_date": "2019-01-01T12:00:00.000+05:30", "channel": [ "mobile", "email" ], "deals": [ "deal1", "deal2" ] }
